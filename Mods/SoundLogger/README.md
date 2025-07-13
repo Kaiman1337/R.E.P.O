@@ -31,6 +31,7 @@ This is useful for debugging audio events or monitoring sounds during gameplay.
 - Sound events will be logged in the Unity console or the BepInEx log file.
 - Logs will look like this:
     `[SoundLogger] Playing: <sound_name> | Type: <sound_type>`
+    `[SoundLogger] [Enemy: <enemy_name>] Playing: <sound_name> | Type: <sound_type>`
 
 ---
 
