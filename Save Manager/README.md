@@ -43,7 +43,7 @@ R.E.P.O Save Manager is a lightweight Windows console application designed to **
 ## Requirements
 
 - Windows OS (uses Windows API for file handling and console operations)
-- C++17 compatible compiler
+- C++14 compatible compiler
 - Console capable of ANSI escape codes for colored output
 
 ---
