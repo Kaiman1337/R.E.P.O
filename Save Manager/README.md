@@ -55,7 +55,7 @@ R.E.P.O Save Manager is a lightweight Windows console application designed to **
 - `1` to update (backup) saves.  
 - `2` to restore saves from backup.  
 - `E` to exit the program.
-3. When in autosave mode, the program will periodically check for changes and update the backups automatically. Press `E` to exit.
+3. When in autosave mode, the program will periodically check for changes and update the backups automatically. Press `E` to exit -> back to main menu.
 
 ---
 
