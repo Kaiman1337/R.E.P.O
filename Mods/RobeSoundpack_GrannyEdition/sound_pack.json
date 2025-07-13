@@ -1,0 +1,50 @@
+{
+  "name": "RobeSoundpack_GrannyEdition",
+  "version": "1.0.0",
+  "config": {
+    "Settings:Robe_Noise01": {
+      "description": "Enable sound replacement for Enemy Robe Noise01",
+      "default": true
+    },
+    "Settings:Robe_Noise02": {
+      "description": "Enable sound replacement for Enemy Robe Noise02",
+      "default": true
+    },
+    "Settings:Robe_Noise03": {
+      "description": "Enable sound replacement for Enemy Robe Noise03",
+      "default": true
+    },
+    "Settings:Robe_Noise04": {
+      "description": "Enable sound replacement for Enemy Robe Noise04",
+      "default": true
+    },
+    "Settings:Robe_Targeting": {
+      "description": "Enable sound replacement for Enemy Robe Targeting",
+      "default": true
+    },
+    "Settings:Robe_Scream": {
+      "description": "Enable sound replacement for Enemy Robe Look Under Scream (Local)",
+      "default": true
+    },
+    "Settings:Robe_ScreamGlobal": {
+      "description": "Enable sound replacement for Enemy Robe Look Under Scream (Global)",
+      "default": true
+    },
+    "Settings:Robe_Attack": {
+      "description": "Enable sound replacement for Enemy Robe Attack (Local)",
+      "default": true
+    },
+    "Settings:Robe_AttackGlobal": {
+      "description": "Enable sound replacement for Enemy Robe Attack (Global)",
+      "default": true
+    },
+    "Settings:Robe_AttackShort": {
+      "description": "Enable sound replacement for Enemy Robe Attack Short",
+      "default": true
+    },
+    "Settings:Robe_AttackShortGlobal": {
+      "description": "Enable sound replacement for Enemy Robe Attack Short (Global)",
+      "default": true
+    }
+  }
+}

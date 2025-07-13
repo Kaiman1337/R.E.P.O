@@ -1,0 +1,125 @@
+{
+  "replacements": [
+    {
+      "matches": "*:enemy robe noise01",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_Noise01",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "where-are-you.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe noise02",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_Noise02",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "ambience01.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe noise03",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_Noise03",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "ambience02.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe noise04",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_Noise04",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "ambience03.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe targeting",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_Targeting",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "hide-and-seek.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe look under scream",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_Scream",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "attack.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe look under scream global",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_ScreamGlobal",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "i-see-you-global.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe attack",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_Attack",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "attack.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe attack global",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_AttackGlobal",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "attack-global.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe attack_short",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_AttackShort",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "attack-short.ogg", "weight": 5 }
+      ]
+    },
+    {
+      "matches": "*:enemy robe attack_short global",
+      "condition": {
+        "type": "config",
+        "config": "Settings:Robe_AttackShortGlobal",
+        "value": true
+      },
+      "sounds": [
+        { "sound": "attack-short-global.ogg", "weight": 5 }
+      ]
+    }
+  ]
+}
