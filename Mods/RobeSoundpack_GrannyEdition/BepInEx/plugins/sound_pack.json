@@ -1,6 +1,6 @@
 {
   "name": "RobeSoundpack_GrannyEdition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "config": {
     "Settings:Robe_Noise01": {
       "description": "Enable sound replacement for Enemy Robe Noise01",
