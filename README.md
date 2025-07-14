@@ -6,4 +6,6 @@
 
 - R.E.P.O Save Manager
 - R.E.P.O Mods
-    RobeSoundpack_GrannyEdition-v1.0.1
+    - SoundLogger
+        - EnemySoundLogsExtractor
+    - RobeSoundpack_GrannyEdition-v1.0.1
