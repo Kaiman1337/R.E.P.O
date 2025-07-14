@@ -1,7 +1,7 @@
 {
   "name": "RobeSoundpack_GrannyEdition",
   "version_number": "1.0.1",
-  "website_url": "https://github.com/Kaiman1337/R.E.P.O/releases/tag/R.E.P.O-Mods-RobeSoundpack_GrannyEdition",
+  "website_url": "https://github.com/Kaiman1337/R.E.P.O/releases/tag/R.E.P.O-Mods-RobeSoundpack_GrannyEdition-v1.0.1",
   "description": "Granny wants to give you some snacks.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
