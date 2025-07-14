@@ -21,7 +21,7 @@ This mod replaces the default sounds of the **Robe** enemy in R.E.P.O. with eeri
 - **Name:** `RobeSoundpack_GrannyEdition`
 - **Version:** `1.0.0`
 - **Author:** [Kaiman1337](https://github.com/Kaiman1337/)
-- **Source:** [GitHub Repository](https://github.com/Kaiman1337/R.E.P.O/Mods/RobeSoundpack_GrannyEdition)
+- **Source:** [GitHub Repository](https://github.com/Kaiman1337/R.E.P.O/tree/master/Mods/RobeSoundpack_GrannyEdition)
 - **Thunderstore:** [Thunderstore](https://thunderstore.io/c/repo/p/Kaiman1337/RobeSoundpack_GrannyEdition/)
 
 ---
