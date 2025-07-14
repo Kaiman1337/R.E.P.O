@@ -21,8 +21,8 @@ This mod replaces the default sounds of the **Robe** enemy in R.E.P.O. with eeri
 - **Name:** `RobeSoundpack_GrannyEdition`
 - **Version:** `1.0.0`
 - **Author:** [Kaiman1337](https://github.com/Kaiman1337/)
-- **Source:** [GitHub Repository](https://github.com/Kaiman1337/R.E.P.O/tree/master/Mods/RobeSoundpack_GrannyEdition)
 - **Thunderstore:** [Thunderstore](https://thunderstore.io/c/repo/p/Kaiman1337/RobeSoundpack_GrannyEdition/)
+- **Github:** 🔗 [Download on GitHub](https://github.com/Kaiman1337/R.E.P.O/releases/tag/R.E.P.O-Mods-RobeSoundpack_GrannyEdition)
 
 ---
 
@@ -42,6 +42,5 @@ This mod replaces the default sounds of the **Robe** enemy in R.E.P.O. with eeri
 3. Launch the game — Granny will find you soon enough.
 
 ---
-
 
 ### Stay alert... Granny is closer than you think
